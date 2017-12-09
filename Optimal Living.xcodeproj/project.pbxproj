@@ -15,6 +15,7 @@
 		839975F01FDB90200040C2E3 /* Workout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 839975EF1FDB90200040C2E3 /* Workout.swift */; };
 		839975F21FDB91710040C2E3 /* WorkoutTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 839975F11FDB91700040C2E3 /* WorkoutTableViewController.swift */; };
 		839975F41FDB91DE0040C2E3 /* WorkoutTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 839975F31FDB91DE0040C2E3 /* WorkoutTableViewCell.swift */; };
+		839975F81FDBABC00040C2E3 /* WorkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 839975F71FDBABC00040C2E3 /* WorkViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		839975EF1FDB90200040C2E3 /* Workout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Workout.swift; sourceTree = "<group>"; };
 		839975F11FDB91700040C2E3 /* WorkoutTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutTableViewController.swift; sourceTree = "<group>"; };
 		839975F31FDB91DE0040C2E3 /* WorkoutTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutTableViewCell.swift; sourceTree = "<group>"; };
+		839975F71FDBABC00040C2E3 /* WorkViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				839975ED1FDB8FC40040C2E3 /* WorkoutViewController.swift */,
 				839975EF1FDB90200040C2E3 /* Workout.swift */,
 				839975F11FDB91700040C2E3 /* WorkoutTableViewController.swift */,
+				839975F71FDBABC00040C2E3 /* WorkViewController.swift */,
 				839975EB1FDB8EB90040C2E3 /* Main.storyboard */,
 				839975E01FDB8E990040C2E3 /* Assets.xcassets */,
 				839975E21FDB8E990040C2E3 /* LaunchScreen.storyboard */,
@@ -148,6 +151,7 @@
 				839975EE1FDB8FC40040C2E3 /* WorkoutViewController.swift in Sources */,
 				839975DA1FDB8E990040C2E3 /* AppDelegate.swift in Sources */,
 				839975F21FDB91710040C2E3 /* WorkoutTableViewController.swift in Sources */,
+				839975F81FDBABC00040C2E3 /* WorkViewController.swift in Sources */,
 				839975F41FDB91DE0040C2E3 /* WorkoutTableViewCell.swift in Sources */,
 				839975F01FDB90200040C2E3 /* Workout.swift in Sources */,
 			);
